@@ -1,6 +1,6 @@
 
-Alumno:Carlos Gabri Krizak
+Alumno:Facundo Mendez 
 Curso: 4to 1 avionica
 Materia: Control de interfaces
 
-Colaboradores: Facundo Mendez, Eugenio Herrera
+Colaboradores: Carlos Gabri Krizak, Eugenio Herrera
